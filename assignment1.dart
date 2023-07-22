@@ -1,12 +1,12 @@
 void main() {
   //Q1
-  int length = 34;
-  int breadth = 34;
-  if (length == breadth) {
-    print("Its a Square value");
-  } else {
-    print("Its a Rectangle values");
-  }
+  // int length = 34;
+  // int breadth = 34;
+  // if (length == breadth) {
+  //   print("Its a Square value");
+  // } else {
+  //   print("Its a Rectangle values");
+  // }
 
   //Q2
   // int age1 = 30;
